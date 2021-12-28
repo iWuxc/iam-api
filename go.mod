@@ -1,4 +1,4 @@
-module github.com/marmotedu/api
+module github.com/iWuxc/iam-api
 
 go 1.17
 
